@@ -1,6 +1,6 @@
 # 🔥 Materiály ku kurzu IBM SPSS Statistics
 
-[Kurz IBM SPSS](https://www.vita.sk/ibm-spss-statistics/)je pre vás skvelou voľbou, ak chcete využívať softvér IBM SPSS na štatistickú analýzu dát. Oboznámime vás so SAV súbormi IBM SPSS a ich štruktúrou. Ukážeme vám, ako pracovať s datasetmi a ako štatistické testy. Zvládnete vykonávať manuálne úpravy, usporiadanie štatistických pozorovaní a premenných.
+[Kurz IBM SPSS](https://www.vita.sk/ibm-spss-statistics/) je pre vás skvelou voľbou, ak chcete využívať softvér IBM SPSS na štatistickú analýzu dát. Oboznámime vás so SAV súbormi IBM SPSS a ich štruktúrou. Ukážeme vám, ako pracovať s datasetmi a ako štatistické testy. Zvládnete vykonávať manuálne úpravy, usporiadanie štatistických pozorovaní a premenných.
 
 ## ❓ Čo je to IBM SPSS Statistics
 SPSS Statistics je **štatistický softvérový balík** vyvinutý spoločnosťou **IBM** na **správu údajov**, **pokročilú analýzu**, **viacrozmernú analýzu**, **business intelligence** a **vyšetrovanie trestných činov**. Dlho vyrábaný spoločnosťou SPSS Inc., spoločnosť IBM ho získala v roku 2009. Verzie softvéru vydané od roku 2015 majú značku **IBM SPSS Statistics**.
