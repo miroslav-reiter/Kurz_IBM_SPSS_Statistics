@@ -9,6 +9,7 @@ Názov softvéru pôvodne znamenal **Statistical Package for the Social Sciences
 
 ## 🙋 Verzie IBM SPSS Statistics
 Najaktuálnešia/najnovšia verzia je **29**. Na trhu sú bežne verzie: 25-28  
+
 <img width="487" alt="19 05 2023 20_06_36-IBM SPSS Statistics" src="https://github.com/miroslav-reiter/Kurz_IBM_SPSS_Statistics/assets/24510943/05809412-b26b-42df-b1c0-abd2d95b6c7e">
 
 **TIP:** Verziu zistíme na Karte Help (Pomocník) > About (O Programe) 
@@ -38,4 +39,5 @@ Dostupné na GitHube alebo na kurze od lektora
 
 ## 📎Obsah Kurzu
 ### I. Predstavenie a práca s IBM SPSS Statistics
+<img width="1280" alt="19 05 2023 20_09_18-Greenshot" src="https://github.com/miroslav-reiter/Kurz_IBM_SPSS_Statistics/assets/24510943/588f2fe9-f4b4-49ce-8caa-bc427c0db571">
 
